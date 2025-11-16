@@ -18,11 +18,8 @@ Built with **Streamlit**, **sentinelhub-py**, and **scikit-learn**.
 ---
 
 ## 🧠 What is NDVI?
-The **Normalized Difference Vegetation Index (NDVI)** is a remote-sensing measurement that indicates vegetation health using reflectance in the **red** (B04) and **near-infrared** (B08) bands:
+The **Normalized Difference Vegetation Index (NDVI)** is a remote-sensing measurement that indicates vegetation health using reflectance in the **red** (B04) and **near-infrared** (B08) bands
 
-\[
-NDVI = \frac{(NIR - RED)}{(NIR + RED)}
-\]
 
 Healthy vegetation has NDVI values closer to **1**, while sparse or unhealthy vegetation approaches **0** or negative values.
 
