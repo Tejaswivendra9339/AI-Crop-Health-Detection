@@ -1,6 +1,6 @@
 # 🌿 Sentinel Hub NDVI Visualizer
 
-This project uses **Sentinel Hub** satellite imagery (Sentinel-2 L2A) to calculate and visualize vegetation health indices such as **NDVI**, **SAVI**, and **EVI** for major U.S. cities.  
+This project uses **Sentinel Hub** satellite imagery (Sentinel-2 L2A) to calculate and visualize vegetation health indices such as **NDVI** for major U.S. cities.  
 It also performs **anomaly detection** using Isolation Forest to help identify potential **crop stress or disease** events.
 
 Built with **Streamlit**, **sentinelhub-py**, and **scikit-learn**.
