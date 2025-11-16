@@ -25,5 +25,4 @@ Healthy vegetation has NDVI values closer to **1**, while sparse or unhealthy ve
 
 ---
 
-## 🏗️ Project Structure
 
